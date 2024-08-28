@@ -1,0 +1,33 @@
+inicializa q
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   build.xml
+#	new file:   build/built-jar.properties
+#	new file:   build/classes/jogodetabuleiro/Dado.class
+#	new file:   build/classes/jogodetabuleiro/Jogador.class
+#	new file:   build/classes/jogodetabuleiro/Jogo.class
+#	new file:   build/classes/jogodetabuleiro/JogoDeTabuleiro.class
+#	new file:   build/classes/jogodetabuleiro/Tabuleiro.class
+#	new file:   dist/JogoDeTabuleiro.jar
+#	new file:   dist/README.TXT
+#	new file:   lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+#	new file:   lib/nblibraries.properties
+#	new file:   manifest.mf
+#	new file:   nbproject/build-impl.xml
+#	new file:   nbproject/genfiles.properties
+#	new file:   nbproject/private/private.properties
+#	new file:   nbproject/private/private.xml
+#	new file:   nbproject/project.properties
+#	new file:   nbproject/project.xml
+#	new file:   src/jogodetabuleiro/Dado.java
+#	new file:   src/jogodetabuleiro/Jogador.java
+#	new file:   src/jogodetabuleiro/Jogo.java
+#	new file:   src/jogodetabuleiro/JogoDeTabuleiro.java
+#	new file:   src/jogodetabuleiro/Tabuleiro.java
+#
